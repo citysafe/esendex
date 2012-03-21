@@ -37,7 +37,7 @@ Gem::Specification.new do |s|
     "test/test_message_batch.rb",
     "test/test_nokogiri.rb"
   ]
-  s.homepage = %q{http://github.com/esendex/esendex.gem}
+  s.homepage = %q{http://github.com/citysafe/esendex.gem}
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.2}
